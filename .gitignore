@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+.vscode/
+projects/
+node_modules/
+dist/
+output/
+.playwright-cli/
