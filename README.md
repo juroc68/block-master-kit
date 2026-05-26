@@ -2,6 +2,10 @@
 
 Prototype web d'un logiciel d'edition d'assets 3D.
 
+## Apercu
+
+![Apercu de Block Master Kit](assets/block-master-ki.png)
+
 ## Stack
 
 - Vite pour lancer vite l'app dans le navigateur
